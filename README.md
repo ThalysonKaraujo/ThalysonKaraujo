@@ -21,3 +21,7 @@ Olá! Sou Thalyson Kauan Araújo, um estudante de 18 anos apaixonado por tecnolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
+
+## Estatisticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonKaraujo&theme=tokyonight)]
