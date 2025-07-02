@@ -24,4 +24,4 @@ Olá! Sou Thalyson Kauan Araújo, um estudante de 18 anos apaixonado por tecnolo
 
 ## Estatisticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonKaraujo&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonKaraujo&theme=tokyonight&layout=compact)]
