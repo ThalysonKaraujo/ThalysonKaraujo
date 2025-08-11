@@ -23,5 +23,5 @@ Olá! Sou Thalyson Kauan, um estudante de 18 anos apaixonado por tecnologia. Atu
 ## Estatisticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonKaraujo&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonKaraujoa&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonKaraujo&show_icons=true&theme=tokyonight)
 
