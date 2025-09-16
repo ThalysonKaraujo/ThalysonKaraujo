@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Sou Thalyson Kauan, um estudante de 18 anos apaixonado por tecnologia. Atualmente, estou trilhando minha jornada acadêmica no Bacharelado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE). Busco constantemente aprimorar meus conhecimentos e habilidades na área de TI, explorando os fundamentos e as inovações que moldam o futuro digital. Estou sempre aberto a novos desafios e aprendizados!
+Olá! Sou Thalyson Kauan, um estudante de 19 anos apaixonado por tecnologia. Atualmente, estou trilhando minha jornada acadêmica no Bacharelado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE). Busco constantemente aprimorar meus conhecimentos e habilidades na área de TI, explorando os fundamentos e as inovações que moldam o futuro digital. Estou sempre aberto a novos desafios e aprendizados!
 
 ## Linguagens e Tecnologias
 
