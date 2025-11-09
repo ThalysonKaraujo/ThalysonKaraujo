@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Sou Thalyson Kauan, um estudante de 19 anos apaixonado por tecnologia. Atualmente, estou trilhando minha jornada acadêmica no Bacharelado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE). Busco constantemente aprimorar meus conhecimentos e habilidades na área de TI, explorando os fundamentos e as inovações que moldam o futuro digital. Estou sempre aberto a novos desafios e aprendizados!
+Thalyson Kauan | Desenvolvedor Fullstack
+
+Com foco em desenvolvimento Fullstack, busco aprimorar continuamente minhas habilidades em TI. Exploro a fundo as tecnologias do meu stack (como Nodejs e React) e estou sempre pronto para enfrentar novos desafios de aprendizado e desenvolvimento.
 
 ## Linguagens e Tecnologias
 
@@ -20,7 +22,7 @@ Olá! Sou Thalyson Kauan, um estudante de 19 anos apaixonado por tecnologia. Atu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-## Estatisticas
+## Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonKaraujo&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonKaraujo&show_icons=true&theme=transparent)
