@@ -4,7 +4,7 @@
 
 Thalyson Kauan | Desenvolvedor Fullstack
 
-Com foco em desenvolvimento Fullstack, busco aprimorar continuamente minhas habilidades em TI. Exploro a fundo as tecnologias do meu stack (como Nodejs e React) e estou sempre pronto para enfrentar novos desafios de aprendizado e desenvolvimento.
+Com foco em desenvolvimento Fullstack, busco aprimorar continuamente minhas habilidades em TI. Exploro a fundo as tecnologias do meu stack (como Nodejs/Java e React) e estou sempre pronto para enfrentar novos desafios de aprendizado e desenvolvimento.
 
 ## Linguagens e Tecnologias
 
