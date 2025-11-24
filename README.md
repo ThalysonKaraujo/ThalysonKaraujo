@@ -25,5 +25,4 @@ Com foco em desenvolvimento Fullstack, busco aprimorar continuamente minhas habi
 ## Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonKaraujo&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonKaraujo&show_icons=true&theme=transparent)
 
