@@ -22,6 +22,5 @@ Com foco em desenvolvimento Fullstack, busco aprimorar continuamente minhas habi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-## Estatísticas
 
 
